@@ -1,2 +1,25 @@
+.holder{
+ display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 
-/* Your CSS Code here. */
+}
+
+.item{
+	width:60px;
+	height:50px;
+
+}
+
+#a{
+	background:green;
+}
+
+
+#b{
+	background:red;
+}
+#c{
+	background:blue;
+}
